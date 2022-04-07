@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "440717858411",
+    "project_id": "al-law",
+    "storage_bucket": "al-law.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440717858411:android:6019a395b327c224e9c32e",
+        "android_client_info": {
+          "package_name": "com.al_law.flutter_al_law"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440717858411-pj2dt2o1408o6ddhvf3rmsm08f0oqgql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.al_law.flutter_al_law",
+            "certificate_hash": "6678fefd4d2a571bae182e523b9537b138fc4106"
+          }
+        },
+        {
+          "client_id": "440717858411-3p781so8321sf3rms73flekni6c9m7sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKrVBRKred4RONzcQXBESImLPVI8S0-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440717858411-3p781so8321sf3rms73flekni6c9m7sm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
